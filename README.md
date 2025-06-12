@@ -4,7 +4,7 @@ Repositorio para el Proyecto 02 de Modelado y Programación.
 
 Prof. José Galaviz Casas.
 
-Este proyecto consiste en un encriptador/desencriptador de texto escondido imágenes (Esteganografia), por el metodo
+Este proyecto consiste en un encriptador/desencriptador de texto escondido en imágenes (Esteganografia), por el metodo
 LSB (Least Significant Bit).
 
 ## Integrantes
