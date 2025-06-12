@@ -1,1 +1,55 @@
-# P2_Esteganograf-a
+# Proyecto 02, Esteganografia
+
+Repositorio para el Proyecto 01 de Modelado y Programación.
+
+Prof. José Galaviz Casas.
+
+Este proyecto consiste en un encriptador/desencriptador de texto escondido imágenes por Esteganografia, por el metodo
+LSB (Least Significant Bit).
+
+## Integrantes
+
++ Oscar Yahir Hernandez Garcia 
++ Said Apis Lorenzana 
++ Gerardo Gael Sandoval Sandoval 
+
+## Descripción
+
+Proyecto 2, programa desarrollado en C++ que implementa la esteganografía por el metodo LSB.
+
+## Dependencias y sus instalaciones.
+
+Las dependencias usadas para el desarrollo de este programa, fueron:
++  **opencv4** para poder trabajar con imagenes como bits.
++ **gtest** para implementar pruebas del codigo.
+
+Estas dependencias se instalan automáticamente cuando se corra el siguiente comando:
+**IMPORTANTE: Se debe de tener instalado cMake antes de correr el comando**
+```bash
+chmod +x run.sh
+./run.sh
+```
+este comando ejecuta la opción de correr test o el programa principal.
+
+Si se desea desinstalar las dependencias instaladas para este programa, solo hace falta ejecutar el 
+siguiente comando:
+```bash
+chmod +x uninstall.sh
+./uninstall.sh
+```
+Este comando al ejecutarlo desinstalara las dependencias antes mensionadas.
+
+## Uso correcto del programa
+Para que el programa trabaje correctamente con los archivos que se manipularán, se debe de
+ingresar la ruta absouluta del archivo a manipular, ejemplo,
+si quiero modificar el archivo imagen.png, se debe de ingresar la ruta absoluta del archivo
+de la siguiente manera:
+```bash
+/home/usuario/documentos/imagen.png
+```
+Si las imágenes proporcionadas se encuentran dentro de la carpeta **Proyecto2_Eteganografia**,
+sólo hace falta proporcionar la ruta de la siguiente manera:
+```bash
+../<carpeta del proyecto donde se encuentra la imagen>/imagen.png
+```
+
