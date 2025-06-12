@@ -42,7 +42,7 @@ Este comando al ejecutarlo desinstalara las dependencias antes mensionadas.
 ## Uso correcto del programa
 Para que el programa trabaje correctamente con los archivos que se manipularán, se debe de
 ingresar la ruta absouluta del archivo a manipular, ejemplo,
-si quiero modificar el archivo imagen.png, se debe de ingresar la ruta absoluta del archivo
+si se quiere modificar el archivo *imagen.png*, se debe de ingresar la ruta absoluta del archivo
 de la siguiente manera:
 ```bash
 /home/usuario/documentos/imagen.png
