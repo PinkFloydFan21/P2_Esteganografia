@@ -33,7 +33,7 @@ Para configurar el entorno de desarrollo, sigue estos pasos:
     +  **opencv4** para poder trabajar con imagenes como bits.
     +  **gtest** para implementar pruebas del codigo.
     
-    Estas dependencias se instalan automáticamente cuando se corra el siguiente comando:
+    Estas dependencias se instalan automáticamente cuando se corra el siguiente comando en tu terminal (dentro de P2_Esteganografía/):
    
     **IMPORTANTE: Se debe de tener instalada la última versión de [cMake](https://cmake.org/download/) antes de correr el comando**
     ```bash
