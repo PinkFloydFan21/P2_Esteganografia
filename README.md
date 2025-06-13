@@ -28,6 +28,7 @@ Para configurar el entorno de desarrollo, sigue estos pasos:
    cd P2_Esteganografia/
    ```
 2. **Instala las dependencias**
+   
    Las dependencias usadas para el desarrollo de este programa, fueron:
     +  **opencv4** para poder trabajar con imagenes como bits.
     +  **gtest** para implementar pruebas del codigo.
