@@ -30,7 +30,7 @@ Para configurar el entorno de desarrollo, sigue estos pasos:
 2. **Instala las dependencias**
    Las dependencias usadas para el desarrollo de este programa, fueron:
     +  **opencv4** para poder trabajar con imagenes como bits.
-    +  + **gtest** para implementar pruebas del codigo.
+    +  **gtest** para implementar pruebas del codigo.
     
     Estas dependencias se instalan automáticamente cuando se corra el siguiente comando:
     **IMPORTANTE: Se debe de tener instalado cMake antes de correr el comando**
