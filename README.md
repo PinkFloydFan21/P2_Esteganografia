@@ -24,7 +24,7 @@ Para configurar el entorno de desarrollo, sigue estos pasos:
 1. **Clona el repositorio:**
 
    ```Bash
-   https://github.com/PinkFloydFan21/P2_Esteganografia.git
+   git clone https://github.com/PinkFloydFan21/P2_Esteganografia.git
    cd P2_Esteganografia/
    ```
 2. **Instala las dependencias:**
