@@ -17,7 +17,7 @@ LSB (Least Significant Bit).
 
 Proyecto 2, programa desarrollado en C++ que implementa la esteganografía por el metodo LSB.
 
-## Instalacion del Proyecto.
+## Instalacion del Proyecto
 
 Para configurar el entorno de desarrollo, sigue estos pasos:
 
