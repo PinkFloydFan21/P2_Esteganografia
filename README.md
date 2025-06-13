@@ -52,13 +52,13 @@ Para configurar el entorno de desarrollo, sigue estos pasos:
 
 ## Uso correcto del programa
 Para que el programa trabaje correctamente con los archivos que se manipularán, se debe de
-ingresar la ruta absouluta del archivo a manipular, ejemplo,
+ingresar la ruta absoluta del archivo a manipular, ejemplo,
 si se quiere modificar el archivo *imagen.png*, se debe de ingresar la ruta absoluta del archivo
 de la siguiente manera:
 ```bash
 /home/usuario/documentos/imagen.png
 ```
-Si las imágenes proporcionadas se encuentran dentro de la carpeta **Proyecto2_Eteganografia**,
+Si las imágenes proporcionadas se encuentran dentro de la carpeta **P2_Esteganografia**,
 sólo hace falta proporcionar la ruta de la siguiente manera:
 ```bash
 ../<carpeta del proyecto donde se encuentra la imagen>/imagen.png
